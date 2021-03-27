@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609956836 source:/home/hana/Desktop/Lab5/main.cpp
+	<iostream>
+	<queue>
+	<cstdlib>
+	<iomanip>
+	<bits/stdc++.h>
+
